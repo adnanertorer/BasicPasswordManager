@@ -1,0 +1,15 @@
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\bin\Debug\net7.0\Core.Identity.deps.json
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\bin\Debug\net7.0\Core.Identity.dll
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\bin\Debug\net7.0\Core.Identity.pdb
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\bin\Debug\net7.0\Core.Persistance.dll
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\bin\Debug\net7.0\Core.Persistance.pdb
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.csproj.AssemblyReference.cache
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.AssemblyInfoInputs.cache
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.AssemblyInfo.cs
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.csproj.CoreCompileInputs.cache
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.csproj.CopyComplete
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.dll
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\refint\Core.Identity.dll
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\Core.Identity.pdb
+C:\Users\adnan\source\repos\AlmulaPasswordManager\Core.Identity\obj\Debug\net7.0\ref\Core.Identity.dll
