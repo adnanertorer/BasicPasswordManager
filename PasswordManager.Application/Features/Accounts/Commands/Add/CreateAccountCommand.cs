@@ -27,7 +27,8 @@ namespace PasswordManager.Application.Features.Accounts.Commands.Add
             public async Task<BaseResponse<CreateAccountDto>> Handle(CreateAccountCommand request, CancellationToken cancellationToken)
             {
                 await _accountBusinessRules.CannotBeDuplicate(request.CreateAccountDto.Username, request.CreateAccountDto.AccountTitle);
-
+                
+                request.CreateAccountDto.CreatedAt = DateTime.UtcNow ;
                 var model = await _accountRepository.AddAsync(_mapper.Map<Account>(request.CreateAccountDto));
                 return BaseResponse<CreateAccountDto>.SuccessFull(_mapper.Map<CreateAccountDto>(model), 200);
 

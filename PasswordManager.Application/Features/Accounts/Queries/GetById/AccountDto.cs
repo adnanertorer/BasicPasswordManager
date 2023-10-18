@@ -1,6 +1,12 @@
-﻿namespace PasswordManager.Application.Features.Accounts.Commands.Add
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PasswordManager.Application.Features.Accounts.Queries.GetById
 {
-    public class CreateAccountDto
+    public class AccountDto
     {
         public long UserId { get; set; }
         public string AccountTitle { get; set; }
